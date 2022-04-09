@@ -38,3 +38,7 @@
 - w3 school
 - bitcamp 
 
+## Languages
+
+- Englis B2
+- Georgia
